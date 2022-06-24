@@ -53,5 +53,3 @@ E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStuden
 E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.MvcApplicationPartsAssemblyInfo.cache
 E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.RazorAssemblyInfo.cache
 E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.RazorAssemblyInfo.cs
-E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.dll
-E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.pdb
