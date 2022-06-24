@@ -3,6 +3,11 @@
   <PropertyGroup>
     <RazorPage_SelectedScaffolderID>RazorPageScaffolder</RazorPage_SelectedScaffolderID>
     <RazorPage_SelectedScaffolderCategoryPath>root/Common/RazorPage</RazorPage_SelectedScaffolderCategoryPath>
-    <NameOfLastUsedPublishProfile>E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\Properties\PublishProfiles\FolderProfile1.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\Properties\PublishProfiles\FolderProfile3.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Reports\TermFeeReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
 </Project>

@@ -50,6 +50,8 @@ E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\PubTmp\O
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\jcb.png
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\mastercard.png
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\news\5varunsivaram.webp
+E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\news\A190010450001-1.jpg
+E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\news\A190010450001.jpg
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\news\Banner-5-SV-1.png
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\news\Banner-5-SV-2.jpg
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\news\img01.jpg

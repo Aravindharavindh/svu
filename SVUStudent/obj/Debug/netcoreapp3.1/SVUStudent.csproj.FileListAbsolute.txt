@@ -23,6 +23,7 @@ E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Debug\netcoreapp3.1\Razor\Pages\Apply-examination.cshtml.g.cs
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Debug\netcoreapp3.1\Razor\Pages\Fee.cshtml.g.cs
+E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Debug\netcoreapp3.1\Razor\Pages\FeeDetails.cshtml.g.cs
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Debug\netcoreapp3.1\Razor\Pages\Forgot_password.cshtml.g.cs
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
@@ -44,3 +45,13 @@ E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.pdb
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.genruntimeconfig.cache
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.csproj.CopyComplete
+E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.csproj.AssemblyReference.cache
+E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.AssemblyInfoInputs.cache
+E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.AssemblyInfo.cs
+E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.csproj.CoreCompileInputs.cache
+E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.RazorAssemblyInfo.cache
+E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.RazorAssemblyInfo.cs
+E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.dll
+E:\Projects\NetCore\SVU\SVU_Student\SVUStudent\obj\Debug\netcoreapp3.1\SVUStudent.pdb

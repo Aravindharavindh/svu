@@ -44,3 +44,4 @@ E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\SVUStude
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\SVUStudent.pdb
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\SVUStudent.genruntimeconfig.cache
 E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\SVUStudent.csproj.CopyComplete
+E:\Projects\NetCore\KSP\SVUStudent\SVUStudent\obj\Release\netcoreapp3.1\Razor\Pages\FeeDetails.cshtml.g.cs

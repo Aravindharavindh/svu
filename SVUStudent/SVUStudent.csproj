@@ -4,4 +4,25 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Reports\TermFeeReport.repx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Reports\TermFeeReport.repx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DevExpress.Reporting.Core" Version="19.2.6-pre-20006" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Reports\TermFeeReport.cs">
+      <DependentUpon>TermFeeReport.repx</DependentUpon>
+    </Compile>
+    <Compile Update="Reports\TermFeeReport.Designer.cs">
+      <DependentUpon>TermFeeReport.repx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
 </Project>
